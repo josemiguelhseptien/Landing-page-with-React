@@ -10,3 +10,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.nav-link, .navbar-brand{
+    color: white !important;
+}
+
+.navbar{
+    background-color: rgba(31, 30, 30, 0.842) !important;
+    padding: 10px;
+}
+.jumbotron{
+    margin: auto;
+    width: 80%;
+    background-color: rgba(236, 236, 236, 0.856);
+    padding: 10px;
+}
+.card{
+    width:18rem;
+    margin: 5px;
+}
+.allCards{
+    display: flex;
+    margin: auto;
+    width: 80%
+}
+
+.card-footer{
+background-color: rgba(31, 30, 30, 0.842) !important;
+}
